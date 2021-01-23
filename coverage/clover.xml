@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1611361071663" clover="3.2.0">
+  <project timestamp="1611361071663" name="All files">
+    <metrics statements="12" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="5" elements="20" coveredelements="14" complexity="0" loc="12" ncloc="12" packages="1" files="1" classes="1"/>
+    <file name="Employee.js" path="/mnt/c/Users/mason/OneDrive/Documents/My Documents/School/University Of Utah/Challenges 10/lib/Employee.js">
+      <metrics statements="12" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="5"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="27" count="0" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="34" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
