@@ -8,5 +8,6 @@ test("Test Engineer Class", () => {
   );
 
   expect(eng.getRole()).toBe("Engineer");
+  expect(typeof eng.getEmail()).toBe("string");
+  expect(eng.genHTML()).not.toBeNull();
 });
-

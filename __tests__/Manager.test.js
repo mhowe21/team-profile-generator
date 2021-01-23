@@ -11,4 +11,5 @@ test("test manager class", () => {
   expect(manager1.getEmail()).toBe("mason.a.howe@example.com");
 
   expect(manager1.getRole()).toBe("Manager");
+  expect(manager1.genHTML()).not.toBeNull();
 });
