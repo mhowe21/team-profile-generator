@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1611374621241" clover="3.2.0">
-  <project timestamp="1611374621241" name="All files">
-    <metrics statements="20" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="7" elements="34" coveredelements="19" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
-    <file name="Employee.js" path="/Users/masonhowe/Documents/GitHub/team-profile-generator/lib/Employee.js">
-      <metrics statements="20" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="7"/>
-      <line num="3" count="3" type="stmt"/>
-      <line num="4" count="3" type="stmt"/>
-      <line num="5" count="3" type="stmt"/>
+<coverage generated="1611436046556" clover="3.2.0">
+  <project timestamp="1611436046556" name="All files">
+    <metrics statements="20" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="15" coveredmethods="9" elements="35" coveredelements="24" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
+    <file name="Employee.js" path="C:\Users\mason\OneDrive\Documents\My Documents\School\University Of Utah\Challenges 10\lib\Employee.js">
+      <metrics statements="20" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="15" coveredmethods="9"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
       <line num="8" count="0" type="stmt"/>
       <line num="11" count="0" type="stmt"/>
       <line num="14" count="4" type="stmt"/>
       <line num="17" count="1" type="stmt"/>
-      <line num="23" count="1" type="stmt"/>
       <line num="24" count="1" type="stmt"/>
-      <line num="27" count="0" type="stmt"/>
-      <line num="30" count="1" type="stmt"/>
-      <line num="36" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="28" count="0" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
       <line num="37" count="1" type="stmt"/>
-      <line num="40" count="0" type="stmt"/>
-      <line num="43" count="1" type="stmt"/>
-      <line num="49" count="0" type="stmt"/>
-      <line num="50" count="0" type="stmt"/>
-      <line num="53" count="0" type="stmt"/>
-      <line num="56" count="0" type="stmt"/>
-      <line num="60" count="4" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="41" count="0" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="54" count="0" type="stmt"/>
+      <line num="57" count="1" type="stmt"/>
+      <line num="61" count="4" type="stmt"/>
     </file>
   </project>
 </coverage>
